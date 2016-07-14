@@ -1,0 +1,7 @@
+.reveal pre code {
+  font-size: 1.5em;
+	padding: 10px;
+	overflow: auto;
+	max-height: 1800px;
+	word-wrap: normal;
+}
