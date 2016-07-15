@@ -84,7 +84,12 @@ scp ${rc_user}@login.rc.colorado.edu:*.txt  ~/Desktop/
 ![](img/globus_site.png)
 
 
+
+
+## Logging in
+
 - Use "University of Colorado at Boulder" as your affiliation
 
 - log in with your identikey username and password
+
 
